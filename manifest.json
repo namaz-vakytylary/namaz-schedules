@@ -3,7 +3,7 @@
   "schedules": [
     {
       "year": 2026,
-      "version": 2,
+      "version": 3,
       "path": "2026.json",
       "cityIds": [
         "safadzhay",
@@ -13,8 +13,8 @@
       "dateTo": "2026-12-31",
       "completeYear": false,
       "daysPerCity": 153,
-      "sha256": "e21599e1613dad56de91a5e535221103860fda873f5b55612a3ce532dcd06167",
-      "bytes": 58602
+      "sha256": "b221ece554b325de231ee69f9076f80000cbbfe4ae7a0b90c8f011151e2e7e95",
+      "bytes": 58822
     }
   ],
   "holidays": [
